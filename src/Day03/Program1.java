@@ -18,6 +18,8 @@ public class Program1 {
 		boolean e=true;
 		char f='a';
 		String u="asdfghjk12345678!@#$";
+				
+		
 	}
 }
 		 
